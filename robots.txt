@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
+Sitemap: https://sillimroom1.clickn.co.kr/sitemap.xml
 
-Sitemap: https://officemain.github.io/sillimroom-seo/sitemap.xml
